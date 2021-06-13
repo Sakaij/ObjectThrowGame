@@ -1,4 +1,4 @@
-# MyGame1
+# ObjectThrowGame
 
 ![demo](https://user-images.githubusercontent.com/38764589/121794950-a6e98c00-cc47-11eb-89b4-71951559c815.gif)
 
