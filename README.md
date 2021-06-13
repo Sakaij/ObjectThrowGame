@@ -1,6 +1,6 @@
 # MyGame1
 
-<img src="https://www.dropbox.com/s/qa33416lzke2ldz/demo.gif?dl=1" />
+![demo](https://user-images.githubusercontent.com/38764589/121794950-a6e98c00-cc47-11eb-89b4-71951559c815.gif)
 
 ## ゲーム内容
 
