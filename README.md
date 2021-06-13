@@ -1,6 +1,6 @@
 # MyGame1
 
-![デモgif](https://www.dropbox.com/s/qa33416lzke2ldz/demo.gif?dl=1)
+<img src="https://www.dropbox.com/s/qa33416lzke2ldz/demo.gif?dl=1" />
 
 ## ゲーム内容
 
